@@ -66,5 +66,5 @@ This CEK interpreter can handle k-ary and variadict functions with other basic p
 ```
 
 ## How to run
-Simply the `test.rkt` file!
+Simply run the `test.rkt` file!
 
